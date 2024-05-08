@@ -1,0 +1,21 @@
+
+.layout__item--full-width { width: 100%; }
+
+.layout__item--70-percent { width: 70%; }
+
+.layout__item--50-percent { width: 50%; }
+
+
+
+.layout__item--centered-horizontally {
+    margin-right:  auto;
+    margin-left:   auto;
+}
+
+
+.layout__content--sticky-footer { min-height: calc(100vh - 10rem); }
+
+
+.gutter--horizontal-small { margin-bottom: 3rem; }
+
+.gutter--horizontal-big { margin-bottom: 4rem; }
